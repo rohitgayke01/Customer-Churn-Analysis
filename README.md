@@ -216,8 +216,8 @@ The analysis identified several important churn-related factors:
 |---|---:|
 | Electronic Check | 45.29% |
 | Month-to-month Contract | 42.71% |
-| No Online Security | 41.77% |
 | Fiber Optic Internet | 41.89% |
+| No Online Security | 41.77% |
 | No Tech Support | 41.64% |
 | Paperless Billing | 33.57% |
 
