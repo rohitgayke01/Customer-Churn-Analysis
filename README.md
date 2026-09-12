@@ -1,5 +1,6 @@
 # 📊 Customer Churn Analysis
 
+![Dashboard Preview](images/dashboard_page1.png)
 ## 📌 Project Overview
 
 Customer churn is an important business problem for telecom companies because losing existing customers can directly affect revenue and growth.
@@ -229,6 +230,22 @@ These factors can help the company identify customers who may be at higher risk 
 
 An interactive Power BI dashboard was created to present the customer churn analysis.
 
+### 🖼️ Dashboard Preview
+
+### Page 1 — Customer Churn Analysis Dashboard
+
+![Dashboard Page 1](images/dashboard_page1.png)
+
+### Page 2 — Customer Churn – Service Analysis
+
+![Dashboard Page 2](images/dashboard_page2.png)
+
+### Page 3 — Customer Churn – Customer Demographics & Services
+
+![Dashboard Page 3](images/dashboard_page3.png)
+
+---
+
 ### Page 1 — Customer Churn Analysis Dashboard
 
 The dashboard includes:
@@ -312,40 +329,35 @@ AVERAGE('Customer Churn'[tenure])
 
 ---
 
-## 💡 Business Recommendations
+## 📊 Business Recommendations
 
-Based on the analysis, the following recommendations can help reduce customer churn:
+Based on the analysis, the following business strategies are recommended:
 
-1. Encourage month-to-month customers to switch to one-year or two-year contracts through suitable offers and discounts.
-
-2. Provide special retention offers for new customers, especially those with 0-12 months of tenure.
-
-3. Target high-risk month-to-month and Fiber Optic customers with personalized retention campaigns.
-
-4. Review customers using Electronic Check and encourage more convenient automatic payment options.
-
-5. Promote Tech Support and Online Security services to customers who do not currently use them.
-
-6. Review pricing plans for customers with high monthly charges.
-
-7. Use customer data to identify high-risk customers early and take proactive retention actions.
+- 🎯 Focus on **Month-to-month customers** with targeted retention offers.
+- 💳 Encourage customers to switch from **Electronic Check** to more stable payment methods.
+- 🌐 Improve customer experience for **Fiber Optic Internet** users.
+- 🛡️ Promote **Online Security** and **Tech Support** services.
+- 🎁 Provide special offers to **new customers within their first year**.
+- 📞 Use proactive customer support to reduce early-stage churn.
+- 💰 Provide personalized plans for customers with higher monthly charges.
 
 ---
 
-## 🚀 Project Outcome
+## 🎯 Project Outcome
 
-This project demonstrates how raw customer data can be transformed into meaningful business insights using Python and Power BI.
+This project provides a complete **Customer Churn Analysis workflow** using Python and Power BI.
 
-The analysis helped identify:
+The analysis identifies important churn drivers such as:
 
-- Overall customer churn rate.
-- Customer segments with higher churn.
-- Contract types associated with higher churn.
-- Services associated with higher churn.
-- Payment methods associated with higher churn.
-- Customer tenure and monthly charge patterns.
-- High-risk customer segments.
-- Potential strategies to improve customer retention.
+- Month-to-month contracts
+- Electronic check payments
+- Fiber optic internet
+- Lack of Online Security
+- Lack of Tech Support
+- Short customer tenure
+- Higher monthly charges
+
+The Power BI dashboard converts these findings into an interactive business intelligence solution that can help organizations identify high-risk customers and design effective retention strategies.
 
 ---
 
@@ -371,8 +383,8 @@ Customer-Churn-Analysis/
 
 **Rohit Gayke**
 
-Aspiring Data Analyst
+Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
 
-### Skills
+---
 
-Python | SQL | Pandas | NumPy | Matplotlib | Seaborn | Power BI | DAX
+⭐ If you found this project useful, feel free to star the repository!
